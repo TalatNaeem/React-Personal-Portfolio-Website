@@ -1,12 +1,12 @@
 import React from 'react';
 import "./testimonials.css";
-import ME from "../../assets/me-about.jpg";
+// import ME from "../../assets/me-about.jpg";
 import AVTR1 from "../../assets/me-about.jpg";
 import AVTR2 from "../../assets/me-about.jpg";
 import AVTR3 from "../../assets/me-about.jpg";
 import AVTR4 from "../../assets/me-about.jpg";
 // import Swiper core and required modules
-import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
+import { Pagination } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -59,7 +59,7 @@ const Testimonials = () => {
             return(
             <SwiperSlide key={index} className='testimonial'>
             <div className='client__avatar'>
-              <img src={avatar} />
+              <img src={avatar} alt='client' />
             </div>
             <h5 className='client__name'>{name}</h5>
             <small className='client__review'>{review}</small>
