@@ -31,20 +31,13 @@ const data = [
   },
   {
     id: 4,
-    image: IMG3,
-    title: '.Net Core: CRUD REST API.',
-    github: 'https://github.com/TalatNaeem/DotnetCoreCRUDAPI',
+    image: IMG4,
+    title: '.Net EF Core Code First API',
+    github: 'https://github.com/TalatNaeem/EF-Core-Backend-API',
     demo: 'https://github.com'
   },
   {
     id: 5,
-    image: IMG4,
-    title: '.Net Core: Migration SQL Script.',
-    github: 'https://github.com/TalatNaeem/Dotnet5.0to6.0Shifting',
-    demo: 'https://github.com'
-  },
-  {
-    id: 6,
     image: IMG5,
     title: 'Online Ticket Reservation System',
     github: 'https://github.com/TalatNaeem/SMD-Android-Bus-Reservation-App',
