@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/TalatNaeemCV.pdf';
+import CV from '../../assets/TalatNaeem.pdf';
 // CTA ka matlb hy Call TO Action.... kisi specific kaam k liay koi action method/function bna'na
 const CTA = () => {
   return (
