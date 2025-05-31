@@ -36,7 +36,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Hello, myself Talat Naeem. A result-oriented full-stack engineer with 3+ years of experience having both managerial and technical skills with a demonstrated history of working for different tech companies, along with various individual projects. I am passionate about designing and developing elegant solutions to complex problems and have worked on projects ranging from small-scale applications to large enterprise systems. On this website, you will find a collection of my work and projects, as well as information about my skills and experience. Please feel free to explore.</p>
+          <p>Hello, myself Talat Naeem. A result-oriented full-stack engineer with 4+ years of experience having both managerial and technical skills with a demonstrated history of working for different tech companies, along with various individual projects. I am passionate about designing and developing elegant solutions to complex problems and have worked on projects ranging from small-scale applications to large enterprise systems. On this website, you will find a collection of my work and projects, as well as information about my skills and experience. Please feel free to explore.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
